@@ -1,11 +1,4 @@
-# 👋 이찬영 | Backend Developer
-
-> **데이터를 분석에서 끝내지 않고, 실제 동작하는 서비스로 연결하는 백엔드 개발자를 지향합니다.**
-
-Java와 Spring Boot를 중심으로 API·데이터베이스·인증 기능을 개발하고, Hadoop 기반 데이터 처리부터 Docker 및 클라우드 배포까지 경험했습니다.
-
 ### 💡 About Me
-
 - **Backend** — Spring Boot·JPA/JDBC 기반 REST API, 인증·권한 및 트랜잭션 처리
 - **Data Engineering** — Hadoop HDFS·MapReduce를 활용한 데이터 집계와 Oracle 적재
 - **Service & Operations** — Django·FastAPI, Celery·Redis 비동기 처리, Docker·GCP·Render·Vercel 배포

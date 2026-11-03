@@ -58,5 +58,5 @@ HDFS 원본 데이터 보존 → 분산 집계 → Oracle 적재 → Spring Boot
 ## 📫 Contact
 
 - **GitHub**: [github.com/happytue772](https://github.com/happytue772)
-- **Portfolio**: [Notion 포트폴리오](https://app.notion.com/p/22bd7baf0aab80aa9e25c518fabcafa9)
+- **Blog**: (https://happytue772.tistory.com/)
 - **Email**: [happytue772@naver.com](mailto:happytue772@naver.com)

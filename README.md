@@ -15,6 +15,7 @@
 | **Data Engineering** | ![Hadoop HDFS](https://img.shields.io/badge/Hadoop_HDFS-FFDE57?style=for-the-badge&logo=apachehadoop&logoColor=black) ![MapReduce](https://img.shields.io/badge/MapReduce-2B6CB0?style=for-the-badge&logoColor=white) |
 | **DevOps & Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) <br> ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 | **Tools & Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white) |
+| **Mobile App** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) <br> ![Provider](https://img.shields.io/badge/Provider-673AB7?style=for-the-badge&
 
 ---
 
@@ -27,12 +28,12 @@
 Celery·Redis 비동기 처리 및 Docker·GCP 기반 서비스 배포 경험  
 <sub>Django · FastAPI · Celery · Redis · PostgreSQL · React · Flutter · Docker · GCP</sub>
 
-#### 🔎 ToolPick · Team Project
-GitHub 오픈소스 수집·AI 분석 및 TOP10 랭킹 서비스  
-Spring Boot·JPA·PostgreSQL 기반 API 및 GitHub OAuth·배포 환경 구성  
-<sub>Java · Spring Boot · JPA · PostgreSQL · Next.js · Tailwind CSS</sub>
+#### 🎬 CineBook · Personal Project
+영화·도서 정보 검색과 회원 인증·관심 목록 관리를 제공하는 웹 서비스  
+Spring Security 인증, JPA·PostgreSQL 데이터 관리, Flyway 마이그레이션 및 외부 API 연동  
+<sub>Java · Spring Boot · Spring Security · JPA · PostgreSQL · Flyway · React</sub>
 
-#### 🎓 EduScope
+#### 🎓 EduScope · Personal Project
 Hadoop MapReduce 기반 교육 데이터 분석 및 시각화 플랫폼  
 HDFS 원본 데이터 보존 → 분산 집계 → Oracle 적재 → Spring Boot·React 결과 제공  
 <sub>Java · Spring Boot · Hadoop · Oracle · React</sub>
